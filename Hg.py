@@ -643,4 +643,3 @@ def afg():
                         limit = int(input('\x1b[1;92m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
 
                 except ValueError:
-  
